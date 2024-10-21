@@ -1,10 +1,8 @@
-<h1 align="center">ВАЖНАЯ ИНФОРМАЦИЯ</a> 
-
-## ВАЖНО!!!!
+<h1 align="center">ВАЖНАЯ ИНФОРМАЦИЯ!!!</a> 
 
 УСПЕЙ ЗАБРАТЬ БЕСПЛАТНЫЕ РОБАКСЫ [ТУТ!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ ).
 
-## Авторы
+<h1 align="center">АВТОРЫ</a> 
 
 - Степанов Егор [Shxwi](https://steamcommunity.com/id/Shxwii/ )
 - Ложкин Роман [Hamster](https://steamcommunity.com/id/roman_pampirs/ )
@@ -21,7 +19,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⢀⣰⠟⠀⠀⠈⠛⠳⠀⠀⠀⠀⠀⢠⡾⠋⠀⠀⠀⠀⠀⠀⠀⠀    
 ```
 
-## Автоматизация деятельности АЗС
+<h1 align="center">Автоматизация деятельности АЗС</a> 
 - [x] ЛР 1
 - [x] ЛР 2
 - [x] ЛР 3
