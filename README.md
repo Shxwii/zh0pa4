@@ -1,4 +1,35 @@
-Дико извеняюс пробегал кобанчиком увидел ваш Стрим чё тут? АХАХХААХ бляяя 25+ лет мужику сидит в человечков играет нарисованных, я в твоих годах уже старший слесарь был)) ладно до встречи Задроты бляя)))
-Привет омежка ебаный. А теперь представь, что ты приходишь раньше с работы домой, заходишь в спальню, а там нахожусь я и ебу твою бабу. Причем ебу так жестко, ее стоны разносятся по всей квартире, так сильно порю эту суку, что она даже не сразу замечает твой приход
-⚡⚡⚡ Зеленский отдал приказ ВСУ максимально длительно сдерживать ВС РФ. Он заявил: -"Наша главная цель сейчас - максимально задержать противника, так же как и приложить все силы для охраны леса под Винницей. В данный момент там готовится абсолютное оружие - Виталий "Папич" Цаль фармит радик"
-веталь, это богдан, помнишь, ты заезжал на машине ко мне в мастерскую, поменять масло в двигателе, я тебе еще попросил помочь донести мне инструменты в гараж, а потом мы взяли масло, начали обливаться голышом и ты вошёл в меня ключем на 9, так вот, это было класно, хочу теперь ключ на 12
+## Client did not pay?
+
+
+Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
+
+
+```javascript
+/* change these variables as you wish */
+var due_date = new Date('2017-02-27');
+var days_deadline = 60;
+/* stop changing here */
+```
+
+PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
+
+## Usage
+Just load the not-paid.js file in ```<head>```
+
+- A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
+- There's also an Android version available [here](https://github.com/theapache64/faded).
+- There's also an Windows Forms version available [here](https://github.com/g-otn/winforms-not-paid).
+- Flutter version available [here](https://github.com/krishnakumarcn/faded).
+- iOS (SwiftUI) version available [here](https://github.com/vfrascello/not-paid-ios/).
+- Angular version available [here](https://github.com/CleitonJB/not-paid).
+
+## Author
+
+Inspired from twitter (@riklomas)
+Made by Ciprian (@kleampa), Romania
+
+PS: No PR's or issues will be accepted for this project. 
+
+## Advertising
+
+Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
