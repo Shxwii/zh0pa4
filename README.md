@@ -41,9 +41,9 @@ PS: Бесплатные робаксы [ТУТ!!!](https://www.youtube.com/watc
 
 ## Авторы
 
--Степанов Егор [Shxwi](https://vk.com/pudge2011 )
--Ложкин Роман [Hamster](https://vk.com/newsc4r )
--Корепанов Илья [R1sense](https://vk.com/faylonvhv )
+- Степанов Егор [Shxwi](https://vk.com/pudge2011 )
+- Ложкин Роман [Hamster](https://vk.com/newsc4r )
+- Корепанов Илья [R1sense](https://vk.com/faylonvhv )
 ```
 НА НАХУЙ КАБАНА ЗАВАЛИЛИ
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
