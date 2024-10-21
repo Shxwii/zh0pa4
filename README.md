@@ -1,6 +1,6 @@
 <h1 align="center">ВАЖНАЯ ИНФОРМАЦИЯ!!!
 
-УСПЕЙ ЗАБРАТЬ БЕСПЛАТНЫЕ РОБАКСЫ [ТУТ!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ ).</h1>
+УСПЕЙ ЗАБРАТЬ БЕСПЛАТНЫЕ РОБУКСЫ [ТУТ!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ ).</h1>
 
 ##               АВТОРЫ
 
