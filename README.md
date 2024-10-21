@@ -1,35 +1,59 @@
-## Client did not pay?
-
-
-Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
-
-
-```javascript
-/* change these variables as you wish */
-var due_date = new Date('2017-02-27');
-var days_deadline = 60;
-/* stop changing here */
+## Пара паст
+```
+Мужики не шмаляйте я кабан! 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⣴⣶⣦⣤⣴⣶⣶⣿⣿⣿⣿⣷⣶⣦⣤⣄⣀⡀⠀⠀⠀⣀⡀ 
+⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⡋⠀⠀ 
+⠀⠀⣠⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀ 
+⠙⠟⠛⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀ 
+⠀⠀⠀⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀ 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⣶⡿⢿⡿⠿⠿⠂⠀⠉⠉⠉⠀⣀⣿⡿⠟⠛⠿⠻⠇ 
+⠀⠀⠀⠀⠀⠀⠀⢀⣰⠟⠀⠀⠈⠛⠳⠀⠀⠀⠀⠀⢠⡾⠋⠀⠀⠀⠀
+```
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠉⠉⠉⠉⠉⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⢀⣠⣶⣶⣶⣶⣤⡀ ⠀ ⠹⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⣾⡿⢿⣿⣿⡿⢿⣿⡆ ⠀ ⢻⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⢿⣇⣸⣿⣿⣇⣸⡿⠃⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠉⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿
+⢿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿
+⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Я НАСРАЛ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿
+⣿⡟⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀МОДЕР УБЕРИ⠀  ⣧⠀⠀⠀⠀⠀ ⢿⣿
+⣿⡇⠀⠀⠀⠀⠀⣾⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣧⠀⠀⠀⠀⠀⢸⣿
+⣿⣇⠀⠀⣰⣶⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣶⣆⠀⠀⢀⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⢸⣿⠇⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣤⣴⣾⣿⣶⣤⣤⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
 
-PS: Next time use [letsdeel.com](https://letsdeel.com ) to make sure you get paid.
+PS: Бесплатные робаксы [ТУТ!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ ) Успей забрать.
 
-## Usage
-Just load the not-paid.js file in ```<head>```
+## Автоматизация деятельности АЗС
+- [x] ЛР 1
+- [ ] ЛР 2
+- [ ] ЛР 3
+- [ ] ЛР 4
+- [ ] ЛР 5
+- [ ] ЛР 6
+- [ ] ЛР 8
 
-- A Wordpress plugin is also available [here](https://github.com/SurfEdge/not-paid-wp).
-- There's also an Android version available [here](https://github.com/theapache64/faded).
-- There's also an Windows Forms version available [here](https://github.com/g-otn/winforms-not-paid).
-- Flutter version available [here](https://github.com/krishnakumarcn/faded).
-- iOS (SwiftUI) version available [here](https://github.com/vfrascello/not-paid-ios/).
-- Angular version available [here](https://github.com/CleitonJB/not-paid).
+- [ ] Итоговая работа
+- [ ] Защита
 
-## Author
+## Авторы
 
-Inspired from twitter (@riklomas)
-Made by Ciprian (@kleampa), Romania
+Степанов Егор [Shxwi](https://vk.com/pudge2011 )
+Ложкин Роман [Hamster](https://vk.com/newsc4r )
+Корепанов Илья [R1sense](https://vk.com/faylonvhv )
+```
+НА НАХУЙ КАБАНА ЗАВАЛИЛИ
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣇⠀⠀⠀⠀⣸⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⣀⣠⣴⣿⣿⣿⣿⣆⠀⠀⢠⣿⣿⣿⣿⣿⣿⣷⣦⡀⢀⣀⣀⠀
+⠀⠀⠀⠰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠸⡇
+⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡜⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀
+⠀⢠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠀⠀⢀⣀⣹⣿⣿⣿⣿⣇⠀⠀⠀⠀
+⠀⠻⠛⣷⣿⣿⠿⠛⠛⣱⡿⠻⠿⠶⠄⠀⠘⠛⠉⠈⠉⠁⠉⠛⢻⣿⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      ⠉⠀
+```
 
-PS: No PR's or issues will be accepted for this project. 
-
-## Advertising
-
-Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
