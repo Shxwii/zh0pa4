@@ -7,6 +7,11 @@
 - Степанов Егор [Shxwi](https://steamcommunity.com/id/Shxwii/ )
 - Ложкин Роман [Hamster](https://steamcommunity.com/id/roman_pampirs/ )
 - Корепанов Илья [R1sense](https://steamcommunity.com/id/r1sense/ )
+
+
+![наша команда](https://github.com/Shxwii/zh0pa4/blob/main/Photo/Cat.png)
+
+
 ```
 Мужики не шмаляйте я кабан! 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
