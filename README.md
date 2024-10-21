@@ -2,7 +2,7 @@
 
 УСПЕЙ ЗАБРАТЬ БЕСПЛАТНЫЕ РОБАКСЫ [ТУТ!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ ).</h1>
 
-##                         АВТОРЫ
+##               АВТОРЫ
 
 - Степанов Егор [Shxwi](https://steamcommunity.com/id/Shxwii/ )
 - Ложкин Роман [Hamster](https://steamcommunity.com/id/roman_pampirs/ )
