@@ -4,9 +4,9 @@
 
 ## Авторы
 
-- Степанов Егор [Shxwi](https://vk.com/pudge2011 )
-- Ложкин Роман [Hamster](https://vk.com/newsc4r )
-- Корепанов Илья [R1sense](https://vk.com/faylonvhv )
+- Степанов Егор [Shxwi](https://steamcommunity.com/id/Shxwii/ )
+- Ложкин Роман [Hamster](https://steamcommunity.com/id/roman_pampirs/ )
+- Корепанов Илья [R1sense](https://steamcommunity.com/id/r1sense/ )
 ```
 Мужики не шмаляйте я кабан! 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
